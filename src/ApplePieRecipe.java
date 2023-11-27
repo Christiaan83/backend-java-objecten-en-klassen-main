@@ -37,7 +37,7 @@ public class ApplePieRecipe {
     }public void deegStroken(){
         System.out.println("* Leg de stroken kuislings op de appeltaart. Met wat extra deegstroken werk je de rand rondom af. Gebruik het overgebleven ei om de bovenkant van het deeg te bestrijken");
     }public void oven(){
-        System.out.println("* Verwarm de oven van te voren op 170 graden Celsius (boven en onderwarmte)");
+        System.out.println("* Zet de taart iets onder het midden van de oven. Bak de taart in 60 minuten op 170 graden Celsius (boven en onderwarmte) gaar en goudbruin.");
     }
 }
     
